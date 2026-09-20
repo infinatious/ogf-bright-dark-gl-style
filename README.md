@@ -8,7 +8,7 @@ Both use the [OpenMapTiles](https://github.com/openmaptiles/openmaptiles) vector
 
 ## Preview
 
-**[:globe_with_meridians: Browse the map](https://vector.opengeofiction.net)**
+**[:globe_with_meridians: Browse the map](https://openmaptiles.opengeofiction.net)**
 
 ## Edit the Style
 
