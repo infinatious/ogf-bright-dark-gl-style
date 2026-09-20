@@ -1,0 +1,28 @@
+{
+  "options": {
+    "paths": {
+      "fonts": "/data/fonts",
+      "sprites": "/style",
+      "styles": "/style"
+    }
+  },
+  "styles": {
+    "OGFBright": {
+      "style": "/style/style.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "OGFDark": {
+      "style": "/style/dark.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    }
+  },
+  "data": {
+    "openmaptiles": {
+      "pmtiles": "/data/ogf.pmtiles"
+    }
+  }
+}
