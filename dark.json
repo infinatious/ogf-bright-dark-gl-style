@@ -5916,7 +5916,7 @@
         ]
       ],
       "layout": {
-        "icon-image": "road_6",
+        "icon-image": "road_6-dark",
         "icon-rotation-alignment": "viewport",
         "icon-size": 1,
         "symbol-placement": {
@@ -5947,7 +5947,9 @@
           5
         ]
       },
-      "paint": {}
+      "paint": {
+        "text-color": "rgba(255, 255, 255, 1)"
+      }
     },
     {
       "id": "highway-shield",
@@ -5976,7 +5978,7 @@
         ]
       ],
       "layout": {
-        "icon-image": "road_{ref_length}",
+        "icon-image": "road_{ref_length}-dark",
         "icon-rotation-alignment": "viewport",
         "icon-size": 1,
         "symbol-placement": {
@@ -6000,7 +6002,9 @@
         "text-rotation-alignment": "viewport",
         "text-size": 10
       },
-      "paint": {}
+      "paint": {
+        "text-color": "rgba(255, 255, 255, 1)"
+      }
     },
     {
       "id": "highway-shield-us-interstate1-concurrency",
@@ -6027,7 +6031,7 @@
         ]
       ],
       "layout": {
-        "icon-image": "{network}_3",
+        "icon-image": "{network}_3-dark",
         "icon-rotation-alignment": "viewport",
         "icon-size": 1,
         "symbol-placement": {
@@ -6063,7 +6067,7 @@
         ]
       },
       "paint": {
-        "text-color": "rgba(93, 53, 53, 1)"
+        "text-color": "rgba(255, 255, 255, 1)"
       }
     },
     {
@@ -6091,7 +6095,7 @@
         ]
       ],
       "layout": {
-        "icon-image": "{network}_{ref_length}",
+        "icon-image": "{network}_{ref_length}-dark",
         "icon-rotation-alignment": "viewport",
         "icon-size": 1.25,
         "symbol-placement": {
@@ -6121,7 +6125,7 @@
         "icon-text-fit": "none"
       },
       "paint": {
-        "text-color": "rgba(93, 53, 53, 1)"
+        "text-color": "rgba(255, 255, 255, 1)"
       }
     },
     {
@@ -6150,7 +6154,7 @@
         ]
       ],
       "layout": {
-        "icon-image": "{network}_3",
+        "icon-image": "{network}_3-dark",
         "icon-rotation-alignment": "viewport",
         "icon-size": 1.2,
         "symbol-placement": {
@@ -6182,7 +6186,7 @@
         ]
       },
       "paint": {
-        "text-color": "rgba(0, 0, 0, 1)"
+        "text-color": "rgba(255, 255, 255, 1)"
       }
     },
     {
@@ -6211,7 +6215,7 @@
         ]
       ],
       "layout": {
-        "icon-image": "{network}_{ref_length}",
+        "icon-image": "{network}_{ref_length}-dark",
         "icon-rotation-alignment": "viewport",
         "icon-size": 1.2,
         "symbol-placement": {
@@ -6236,7 +6240,7 @@
         "text-size": 10
       },
       "paint": {
-        "text-color": "rgba(0, 0, 0, 1)"
+        "text-color": "rgba(255, 255, 255, 1)"
       }
     },
     {

@@ -705,5 +705,131 @@
     "width": 17,
     "x": 263,
     "y": 21
+  },
+  "road_1-dark": {
+    "width": 14,
+    "height": 14,
+    "x": 0,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "road_2-dark": {
+    "width": 20,
+    "height": 14,
+    "x": 15,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "road_3-dark": {
+    "width": 25,
+    "height": 14,
+    "x": 36,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "road_4-dark": {
+    "width": 31,
+    "height": 14,
+    "x": 62,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "road_5-dark": {
+    "width": 36,
+    "height": 14,
+    "x": 94,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "road_6-dark": {
+    "width": 40,
+    "height": 14,
+    "x": 131,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "us-interstate_1-dark": {
+    "width": 17,
+    "height": 17,
+    "x": 172,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "us-interstate_2-dark": {
+    "width": 17,
+    "height": 17,
+    "x": 190,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "us-interstate_3-dark": {
+    "width": 21,
+    "height": 17,
+    "x": 208,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "us-highway_1-dark": {
+    "width": 17,
+    "height": 17,
+    "x": 230,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "us-highway_2-dark": {
+    "width": 17,
+    "height": 17,
+    "x": 248,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "us-highway_3-dark": {
+    "width": 21,
+    "height": 17,
+    "x": 266,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "us-state_1-dark": {
+    "width": 17,
+    "height": 14,
+    "x": 288,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "us-state_2-dark": {
+    "width": 22,
+    "height": 14,
+    "x": 306,
+    "y": 158,
+    "pixelRatio": 1
+  },
+  "us-state_3-dark": {
+    "width": 27,
+    "height": 14,
+    "x": 0,
+    "y": 176,
+    "pixelRatio": 1
+  },
+  "us-state_4-dark": {
+    "width": 32,
+    "height": 14,
+    "x": 28,
+    "y": 176,
+    "pixelRatio": 1
+  },
+  "us-state_5-dark": {
+    "width": 37,
+    "height": 14,
+    "x": 61,
+    "y": 176,
+    "pixelRatio": 1
+  },
+  "us-state_6-dark": {
+    "width": 42,
+    "height": 14,
+    "x": 99,
+    "y": 176,
+    "pixelRatio": 1
   }
 }
